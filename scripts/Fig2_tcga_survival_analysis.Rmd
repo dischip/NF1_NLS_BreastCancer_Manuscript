@@ -6,6 +6,9 @@ date: "2025-06-11"
 
 ```{r setup, include=FALSE}
 
+# TCGA survival analysis for NF1 NLS manuscript
+# Portions of this code were modified from scripts originally written by EW.
+# Additional modifications and analysis by Patrick Dischinger.
 # Load Required Libraries
 
 library(dplyr)
